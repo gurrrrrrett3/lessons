@@ -1,0 +1,24 @@
+Please install these extensions from the exension menu
+(looks like 4 squares but the second one isn't connected)
+
+#REQUIRED#
+
+--Babel JavaScript
+--CodeTogether
+
+#RECCOMENDED
+
+--Prettier - Code Formatter
+
+##OPTIONAL##
+
+--Discord Presence
+
+##THEMES##
+Themes I like 
+
+--Community Material Theme (I use "Community Material Theme Ocean High Contrast")
+--Winter is Coming Theme
+--SynthWave '84
+
+--Material Icon Theme (adds awesome file icons)
